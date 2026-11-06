@@ -1,0 +1,19 @@
+{
+    "feedFormat":  1,
+    "product":  "Accelify Connect for Xero",
+    "version":  "0.7.0.1",
+    "packageVersionId":  "04tOa000001BRabIAG",
+    "releasedOn":  "2026-12-02",
+    "severity":  "normal",
+    "headline":  "Credit notes can now be emailed from their card.",
+    "whatsNew":  [
+                     "Credit notes can be emailed from their card.",
+                     "Payments recorded against a voided invoice now sync.",
+                     "The Overview loads faster with large invoice volumes."
+                 ],
+    "afterUpgrade":  [
+                         "Give people who send credit notes the new Xero - Credit Note Sender access level, in Permissions."
+                     ],
+    "minimumSupported":  "0.5.0",
+    "releaseNotesUrl":  "https://accelify.atlassian.net/wiki/spaces/IHPD/pages/630947841/Release+Notes"
+}
