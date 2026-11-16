@@ -1,21 +1,17 @@
 {
     "feedFormat":  1,
     "product":  "Accelify Connect for Xero",
-    "version":  "1.0.0.1",
-    "packageVersionId":  "04tOa000001HWVxIAO",
-    "releasedOn":  "2026-11-16",
+    "version":  "1.0.1.1",
+    "packageVersionId":  "04tOa000001HX5RIAW",
+    "releasedOn":  "2026-11-17",
     "severity":  "normal",
-    "headline":  "The first release: your Xero contacts, invoices and payments in Salesforce, with invoicing from Opportunities and Flow automation.",
+    "headline":  "Installs in every org, including orgs with no Account Record Types.",
     "whatsNew":  [
-                     "Connect one or more Xero organisations and sync contacts, invoices, credit notes, payments, items, accounts and tax rates into Salesforce.",
-                     "Create Xero invoices from an Opportunity as a draft, approved or emailed, including instalment invoices, with your Xero Settings rules applied.",
-                     "See each customer\u0027s Xero position on the Account and Opportunity with the Xero cards, and across all customers on the Xero Overview.",
-                     "Automate with 16 Xero actions in Flow Builder, or create invoices and contacts with ordinary flow elements and let Salesforce send them to Xero.",
-                     "Give people one of five access levels, and see any record that could not sync, with the reason and the fix, in Records Not Synced."
+                     "Install Accelify Connect for Xero in an org that has no Account Record Types."
                  ],
     "afterUpgrade":  [
-                         "Open Xero Home and follow its steps: connect Xero, choose what syncs in Xero Settings, give people access, then Import Data. The Admin Guide walks through each step."
+
                      ],
     "minimumSupported":  "1.0.0",
-    "releaseNotesUrl":  "https://portal.example/accelify-connect-for-xero/release-notes/version-1-0-0"
+    "releaseNotesUrl":  "https://portal.example/accelify-connect-for-xero/release-notes/version-1-0-1"
 }

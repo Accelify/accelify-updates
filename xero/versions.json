@@ -2,6 +2,23 @@
     {
         "feedFormat":  1,
         "product":  "Accelify Connect for Xero",
+        "version":  "1.0.1.1",
+        "packageVersionId":  "04tOa000001HX5RIAW",
+        "releasedOn":  "2026-11-17",
+        "severity":  "normal",
+        "headline":  "Installs in every org, including orgs with no Account Record Types.",
+        "whatsNew":  [
+                         "Install Accelify Connect for Xero in an org that has no Account Record Types."
+                     ],
+        "afterUpgrade":  [
+
+                         ],
+        "minimumSupported":  "1.0.0",
+        "releaseNotesUrl":  "https://portal.example/accelify-connect-for-xero/release-notes/version-1-0-1"
+    },
+    {
+        "feedFormat":  1,
+        "product":  "Accelify Connect for Xero",
         "version":  "1.0.0.1",
         "packageVersionId":  "04tOa000001HWVxIAO",
         "releasedOn":  "2026-11-16",
