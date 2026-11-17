@@ -1,0 +1,41 @@
+[
+    {
+        "feedFormat":  1,
+        "product":  "Accelify Connect for Unleashed",
+        "version":  "1.0.1.1",
+        "packageVersionId":  "04tOa000001HgBxIAK",
+        "releasedOn":  "2026-11-17",
+        "severity":  "normal",
+        "headline":  "Credit notes sync while the Invoices sync is off, and Records Not Synced says where to fix each record.",
+        "whatsNew":  [
+                         "Credit notes sync while the Invoices sync is off, keeping the invoice number, so they no longer wait for an invoice that never comes.",
+                         "Records Not Synced says whether to fix a record in Unleashed or in Salesforce, and shows a refused value in quotation marks."
+                     ],
+        "afterUpgrade":  [
+
+                         ],
+        "minimumSupported":  "1.0.0",
+        "releaseNotesUrl":  "https://accelify-connect-unleashed-product-documentation.scroll.site/version-1-0-1"
+    },
+    {
+        "feedFormat":  1,
+        "product":  "Accelify Connect for Unleashed",
+        "version":  "1.0.0.10",
+        "packageVersionId":  "04tOa000001HWKfIAO",
+        "releasedOn":  "2026-11-16",
+        "severity":  "normal",
+        "headline":  "The first release: your Unleashed customers, products, stock and sales in Salesforce, with sales orders created from Salesforce.",
+        "whatsNew":  [
+                         "Connect Unleashed and sync customers and contacts, products with tier price books, stock on hand, quotes, orders, invoices, shipments and credit notes.",
+                         "Edits to linked Accounts and Contacts go back to Unleashed, so the customer record stays the same in both.",
+                         "Create Unleashed sales orders from an Opportunity, or from another record such as a Work Order, with the New Order card.",
+                         "Follow every serialised unit from shipment to return, and see each customer\u0027s Unleashed orders and quotes on the Account and Opportunity cards.",
+                         "Give people one of three access levels, and see any record that could not sync, with the reason and the fix, in Records Not Synced."
+                     ],
+        "afterUpgrade":  [
+                             "Open Unleashed Home and follow its steps, from connecting Unleashed to Import Data. The Admin Guide walks through each step."
+                         ],
+        "minimumSupported":  "1.0.0",
+        "releaseNotesUrl":  "https://accelify-connect-unleashed-product-documentation.scroll.site/version-1-0-0"
+    }
+]
