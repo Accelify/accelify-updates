@@ -2,6 +2,24 @@
     {
         "feedFormat":  1,
         "product":  "Accelify Connect for Xero",
+        "version":  "1.0.2.1",
+        "packageVersionId":  "04tOa000001Hg5VIAS",
+        "releasedOn":  "2026-11-17",
+        "severity":  "normal",
+        "headline":  "Records Not Synced now says whether to fix a record in Xero or in Salesforce, and a brief Xero sign-in hiccup no longer raises an alarm.",
+        "whatsNew":  [
+                         "Records Not Synced now says where to fix each record: Fix Xero for a bad value from Xero, Fix Salesforce for setup, or both when either side can fix it.",
+                         "Records Not Synced now names the value Salesforce refused, such as an email address or a number out of range, and what to change."
+                     ],
+        "afterUpgrade":  [
+
+                         ],
+        "minimumSupported":  "1.0.0",
+        "releaseNotesUrl":  "https://accelify-connect-xero-product-documentation.scroll.site/version-1-0-2"
+    },
+    {
+        "feedFormat":  1,
+        "product":  "Accelify Connect for Xero",
         "version":  "1.0.1.1",
         "packageVersionId":  "04tOa000001HX5RIAW",
         "releasedOn":  "2026-11-17",
