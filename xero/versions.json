@@ -14,7 +14,7 @@
 
                          ],
         "minimumSupported":  "1.0.0",
-        "releaseNotesUrl":  "https://portal.example/accelify-connect-for-xero/release-notes/version-1-0-1"
+        "releaseNotesUrl":  "https://accelify-connect-xero-product-documentation.scroll.site/version-1-0-1"
     },
     {
         "feedFormat":  1,
@@ -35,6 +35,6 @@
                              "Open Xero Home and follow its steps: connect Xero, choose what syncs in Xero Settings, give people access, then Import Data. The Admin Guide walks through each step."
                          ],
         "minimumSupported":  "1.0.0",
-        "releaseNotesUrl":  "https://portal.example/accelify-connect-for-xero/release-notes/version-1-0-0"
+        "releaseNotesUrl":  "https://accelify-connect-xero-product-documentation.scroll.site/version-1-0-0"
     }
 ]
