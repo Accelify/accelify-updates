@@ -2,6 +2,25 @@
     {
         "feedFormat":  1,
         "product":  "Accelify Connect for Unleashed",
+        "version":  "1.0.2.1",
+        "packageVersionId":  "04tOa000001I8mXIAS",
+        "releasedOn":  "2026-11-20",
+        "severity":  "normal",
+        "headline":  "Orders link only to the right customer, serial numbers follow parked shipments, and Add Lines handles more orders at once.",
+        "whatsNew":  [
+                         "Add Lines from Source Record takes about 25 orders in one flow run, up from about 10.",
+                         "A user whose salesperson link Salesforce refuses now shows in Records Not Synced with Retry, and the Salespeople sync still succeeds.",
+                         "The Home upgrade banner names the full version that is available."
+                     ],
+        "afterUpgrade":  [
+
+                         ],
+        "minimumSupported":  "1.0.0",
+        "releaseNotesUrl":  "https://accelify-connect-unleashed-product-documentation.scroll.site/version-1-0-2"
+    },
+    {
+        "feedFormat":  1,
+        "product":  "Accelify Connect for Unleashed",
         "version":  "1.0.1.1",
         "packageVersionId":  "04tOa000001HgBxIAK",
         "releasedOn":  "2026-11-17",
