@@ -1,18 +1,19 @@
 {
     "feedFormat":  1,
     "product":  "Accelify Connect for Unleashed",
-    "version":  "1.0.1.1",
-    "packageVersionId":  "04tOa000001HgBxIAK",
-    "releasedOn":  "2026-11-17",
+    "version":  "1.0.2.1",
+    "packageVersionId":  "04tOa000001I8mXIAS",
+    "releasedOn":  "2026-11-20",
     "severity":  "normal",
-    "headline":  "Credit notes sync while the Invoices sync is off, and Records Not Synced says where to fix each record.",
+    "headline":  "Orders link only to the right customer, serial numbers follow parked shipments, and Add Lines handles more orders at once.",
     "whatsNew":  [
-                     "Credit notes sync while the Invoices sync is off, keeping the invoice number, so they no longer wait for an invoice that never comes.",
-                     "Records Not Synced says whether to fix a record in Unleashed or in Salesforce, and shows a refused value in quotation marks."
+                     "Add Lines from Source Record takes about 25 orders in one flow run, up from about 10.",
+                     "A user whose salesperson link Salesforce refuses now shows in Records Not Synced with Retry, and the Salespeople sync still succeeds.",
+                     "The Home upgrade banner names the full version that is available."
                  ],
     "afterUpgrade":  [
 
                      ],
     "minimumSupported":  "1.0.0",
-    "releaseNotesUrl":  "https://accelify-connect-unleashed-product-documentation.scroll.site/version-1-0-1"
+    "releaseNotesUrl":  "https://accelify-connect-unleashed-product-documentation.scroll.site/version-1-0-2"
 }
